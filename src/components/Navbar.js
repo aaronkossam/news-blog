@@ -49,7 +49,7 @@ const Navbar = (props) => {
 
             <div className=" lg:grid grid-cols-2">
               <h1
-                style={{ lineHeight: "1.6rem" }}
+                // style={{ lineHeight: "1.6rem" }}
                 className=" text-3xl pt-3 pl-2 font-extrabold "
               >
                 {" "}
